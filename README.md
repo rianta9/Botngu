@@ -1,2 +1,2 @@
 # Botngu
-Chatbot sử dụng keyword để trả lời
+Botchat sử dụng keyword để trả lời
